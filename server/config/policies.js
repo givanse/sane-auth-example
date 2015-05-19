@@ -30,7 +30,6 @@ module.exports.policies = {
   AppController: {
     'serve': true
   },
-
   UserController: {
     "create": true,
   },
